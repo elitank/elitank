@@ -10,13 +10,15 @@
 ##
 
 🛠️ Tecnologias e Ferramentas
-  
-<div style="display: inline_block"><br>
-<img align = 'center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img align = 'center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img align = 'center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
-<img align = 'center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" height="40" alt="Pytest"/>
-<img align = 'right' src="https://github.com/user-attachments/assets/413d6e3d-6d15-45ef-8d52-7176d764e29b"width="70" height="60" alt="pikachu"/>
 
-
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-%23013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![Scipy](https://img.shields.io/badge/Scipy-%230054a6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23f89939?style=flat-square&logo=scikitlearn&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-%23382923?style=flat-square&logo=dbeaver&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-%2334A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 </div>
