@@ -1,6 +1,7 @@
-<img src="https://i.imgur.com/qQbFutP.gifhttps://i.imgur.com/wj8HNGQ.gif)" alt="bonfire" width="400px" align="right">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=MedievalSharp&size=30&duration=3000&pause=5000&color=F29D0C&background=00000043&multiline=true&width=435&lines=%E2%99%B0+++++Welcome+to+my+profile!+++++%E2%99%B0)](https://git.io/typing-svg)
+
+<img src="https://i.imgur.com/qQbFutP.gifhttps://i.imgur.com/wj8HNGQ.gif)" alt="bonfire" width="400px" align="center">
 
 ---
 
